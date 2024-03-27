@@ -12,23 +12,24 @@ The RUCPC Competitive Programming Bootcamp is designed to help you enhance your 
 - Duration: 3 months.
 - Organizers: RUCPC (Rajshahi University Competitive Programming Club)
 - Instructors:
--     Professor Iqbal Aziz Khan
--     Kamol Paul
--     Asifur Rahman
--     Omar Niloy
--     Md. Sourav
--     Mrinal Kanti Howladar
+     - Professor Iqbal Aziz Khan
+     - Kamol Paul
+     - Asifur Rahman
+     - Omar Niloy
+     - Md. Sourav
+     - Mrinal Kanti Howladar
 - Schedule: Every Tuesday and Thursday.
 
 ## Curriculum
 
 The boot camp curriculum will cover various topics essential for competitive programming. Some of the key areas include:
-    - STL
-    - Data Structures and Algorithms
-    - Dynamic Programming
-    - Graph Theory
-    - Number Theory
-    - Computational Geometry
+
+     STL
+     Data Structures and Algorithms
+     Dynamic Programming
+     Graph Theory
+     Number Theory
+     Computational Geometry
 
 Each topic will be covered through lectures, coding sessions, and practice problems.
 Resources

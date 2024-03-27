@@ -8,26 +8,26 @@ The RUCPC Competitive Programming Bootcamp is designed to help you enhance your 
 
 ## Getting Started
 
-Bootcamp Start Date: March 14th, 2024
-Duration: 3 months.
-Organizers: RUCPC (Rajshahi University Competitive Programming Club)
-Instructors: 
-1. Kamol Paul
-2. Asifur Rahman
-3. Omar Niloy
-4. Md. Sourav
-5. Mrinal Kanti Howladar
-Schedule: Every Tuesday and Thursday.
+- Bootcamp Start Date: March 14th, 2024
+- Duration: 3 months.
+- Organizers: RUCPC (Rajshahi University Competitive Programming Club)
+- Instructors: 
+    1. Kamol Paul
+    2. Asifur Rahman
+    3. Omar Niloy
+    4. Md. Sourav
+    5. Mrinal Kanti Howladar
+- Schedule: Every Tuesday and Thursday.
 
 ## Curriculum
 
 The boot camp curriculum will cover various topics essential for competitive programming. Some of the key areas include:
-    STL
-    Data Structures and Algorithms
-    Dynamic Programming
-    Graph Theory
-    Number Theory
-    Computational Geometry
+    - STL
+    - Data Structures and Algorithms
+    - Dynamic Programming
+    - Graph Theory
+    - Number Theory
+    - Computational Geometry
 
 Each topic will be covered through lectures, coding sessions, and practice problems.
 Resources

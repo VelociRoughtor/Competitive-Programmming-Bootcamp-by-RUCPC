@@ -11,12 +11,13 @@ The RUCPC Competitive Programming Bootcamp is designed to help you enhance your 
 - Bootcamp Start Date: March 14th, 2024
 - Duration: 3 months.
 - Organizers: RUCPC (Rajshahi University Competitive Programming Club)
-- Instructors: 
-    1. Kamol Paul
-    2. Asifur Rahman
-    3. Omar Niloy
-    4. Md. Sourav
-    5. Mrinal Kanti Howladar
+- Instructors:
+-     Professor Iqbal Aziz Khan
+-     Kamol Paul
+-     Asifur Rahman
+-     Omar Niloy
+-     Md. Sourav
+-     Mrinal Kanti Howladar
 - Schedule: Every Tuesday and Thursday.
 
 ## Curriculum
@@ -54,6 +55,6 @@ Required Software:
 
 For any queries or assistance, feel free to reach out to the organizers or instructors:
 
-    Proffessor Iqbal Aziz: 01712-010916
+    Proffessor Iqbal Aziz Khan: 01712-010916
 
 

@@ -1,12 +1,12 @@
-#RUCPC Competitive Programming Bootcamp
+# RUCPC Competitive Programming Bootcamp
 
 Welcome to the RUCPC Competitive Programming Bootcamp! This README file will guide you through what to expect from the boot camp, how to get started, and some important information you need to know.
 
-##Introduction
+## Introduction
 
 The RUCPC Competitive Programming Bootcamp is designed to help you enhance your problem-solving skills, algorithmic thinking, and coding abilities to excel in competitive programming competitions. Whether you're a beginner or have some experience, this boot camp will provide valuable insights and resources to sharpen your skills.
 
-##Getting Started
+## Getting Started
 
 Bootcamp Start Date: March 14th, 2024
 Duration: 3 months.
@@ -19,7 +19,7 @@ Instructors:
 5. Mrinal Kanti Howladar
 Schedule: Every Tuesday and Thursday.
 
-##Curriculum
+## Curriculum
 
 The boot camp curriculum will cover various topics essential for competitive programming. Some of the key areas include:
     STL
@@ -36,7 +36,7 @@ Required Software:
     Integrated Development Environment (IDE) of your choice (e.g., Visual Studio Code, Sublime Text, JetBrains IntelliJ IDEA)
     Compiler/Interpreter for your preferred programming language (e.g., C++, Java, Python)
 
-##Online Platforms:
+## Online Platforms:
 
     Codeforces
     LeetCode
@@ -44,13 +44,13 @@ Required Software:
     AtCoder
     HackerRank
 
-##Books:
+## Books:
 
     Competitive Programming by Steven Halim and Felix Halim
     Introduction to Algorithms by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein
     Algorithms by Robert Sedgewick and Kevin Wayne
 
-##Contact Information
+## Contact Information
 
 For any queries or assistance, feel free to reach out to the organizers or instructors:
 

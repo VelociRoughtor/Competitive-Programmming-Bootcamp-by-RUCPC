@@ -1,0 +1,22 @@
+#include <bits/stdc++.h>
+using namespace std;
+int main() 
+{
+    ios_base::sync_with_stdio(0); cin.tie(0); cout.tie(0);
+    int n,c=0; cin>>n;
+    string s,x; cin>>s;
+    map<char,int>m;
+    for(int i=0; i<s.size(); i+=2)
+    {
+        char a=s[i], b=s[i+1];
+        b=tolower(b);
+        if(a!=b)
+        {
+            auto it = m.find(b);
+            if(it==m.end()||m[b]==0) c++, m[a]++;
+            else m[a]++,m[b]--;
+        }
+    }
+    cout<<c<<'\n';
+    return 0;
+}

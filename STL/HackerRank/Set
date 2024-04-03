@@ -1,0 +1,23 @@
+#include <set>
+#include <iostream>
+#include <algorithm>
+using namespace std;
+
+
+int main() 
+{
+    int n; cin >> n;
+    set<int> s;
+    while(n--)
+    {
+        int a, b; cin >> a >> b;
+        if(a == 1) s.insert(b);
+        else if(a == 2 && s.find(b) != s.end()) s.erase(b);
+        else if(a == 3)
+        {
+            if(s.find(b) != s.end()) cout << "Yes\n";
+            else cout << "No\n";
+        }
+    }  
+    return 0;
+}
